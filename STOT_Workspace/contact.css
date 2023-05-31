@@ -1,0 +1,198 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #F8F9FA;;
+}
+  
+li {
+    float: left;
+}
+
+#nav-home-li {
+    padding-left: 300px;
+}
+
+#nav-title
+{
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #CAA266;
+}
+  
+li a {
+    font-family: 'Inter';
+    font-style: normal;
+    display: block;
+    color: #152536;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover:not(.active) {
+    background: rgba(234, 233, 233, 0.5);
+}
+  
+li a.active {
+    color: white;
+    background-color: #04AA6D;
+}
+
+#search-bar {
+    position: absolute;
+    width: 150px;
+    height: 20px;
+    padding: 12px 20px;
+    margin-left: 700px;
+    margin-top: -55px;
+}
+
+#search-button {
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    padding: 6px 10px;
+    margin-left: 875px;
+    margin-top: -55px;
+    text-align: center;
+}
+
+body {
+    background-color: #CACACA;
+}
+
+h1 {
+    position: fixed;
+    width: 980px;
+    height: 92px;
+    top: 50px;
+    left: 75px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 50px;
+    align-items: center;
+    color: #CAA266;
+}
+
+#name-header2 {
+    position: fixed;
+    top: 150px;
+    left: 75px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    color: #152536;
+}
+
+#name-input {
+    position: fixed;
+    top: 225px;
+    left: 75px;
+    width: 300px;
+    height: 40px;
+    padding: 12px 20px;
+}
+
+#message-header2 {
+    position: fixed;
+    top: 275px;
+    left: 75px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    color: #152536;
+}
+
+#message-input {
+    position: fixed;
+    top: 350px;
+    left: 75px;
+    width: 300px;
+    height: 100px;
+    padding: 12px 20px;
+}
+
+#response-header2 {
+    position: fixed;
+    top: 450px;
+    left: 75px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    color: #152536;
+}
+
+#radios-title {
+    position: fixed;
+    top: 500px;
+    left: 75px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    color: #152536;
+}
+
+#pm-radio {
+    position: fixed;
+    top: 550px;
+    left: 75px;
+}
+#pm-radio-label {
+    position: fixed;
+    top: 550px;
+    left: 100px;
+}
+
+#email-radio {
+    position: fixed;
+    top: 575px;
+    left: 75px;
+}
+#email-radio-label
+{
+    position: fixed;
+    top: 575px;
+    left: 100px;
+}
+
+#sms-radio {
+    position: fixed;
+    top: 600px;
+    left: 75px;
+}
+#sms-radio-label{
+    position: fixed;
+    top: 600px;
+    left: 100px;
+}
+
+#submit-button {
+    position: fixed;
+    align-items: center;
+    top: 650px;
+    left: 75px;
+    padding: 10px 16px;
+    width: 87px;
+    height: 39px;
+    background: #CAA266;
+    border-radius: 4px;
+}
+
+img {
+    position: fixed;
+    width: 893x;
+    height: 201px;
+    top: 200px;
+    left: 400px;
+}

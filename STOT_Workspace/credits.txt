@@ -1,0 +1,7 @@
+Bootstrap prototype is based on an older version from 2022 from @authors: Kyla Moore and Suzy Clark
+
+Navbar template code from w3schools.com, modified and implmented by Kyla Moore
+
+Picture images seen on the site are from organizations and photographers
+
+HTML and CSS by Kyla Moore
